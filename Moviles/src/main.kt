@@ -178,5 +178,7 @@ fun main(args: Array<String>) {
     println(ints.reduce({acc,i -> acc+i }))
     println(ints.fold(10){acc,i -> acc+i })
 
+    //navigation editor
+
 }
 
